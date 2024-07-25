@@ -1,0 +1,1 @@
+SELECT identifier FROM pokemon WHERE id in (1,4,7)
