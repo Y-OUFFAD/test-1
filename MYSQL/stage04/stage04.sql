@@ -1,1 +1,0 @@
-SELECT identifier FROM pokemon WHERE Id >=  133 and id <= 136;

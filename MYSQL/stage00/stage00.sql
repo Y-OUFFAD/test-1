@@ -1,1 +1,0 @@
-SELECT identifier FROM pokemon;
